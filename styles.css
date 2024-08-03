@@ -1,1 +1,59 @@
-/* Write your CSS here! */
+HTML {
+  background-color: #faf6f8;
+  text-align: center;
+}
+/* header {
+;
+} */
+body {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  margin-right: 8px;
+  margin-left: 8px;
+  display: block;
+}
+main {
+  border: 3px solid red;
+}
+#mainHeading {
+  color: red;
+  font-size: 40px;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 6px;
+}
+img {
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 6px;
+}
+.funParagraph {
+  color: green;
+  text-align: center;
+}
+div {
+  color: antiquewhite;
+  background-color: rgb(205, 200, 200);
+  text-align: center;
+}
+
+p {
+  color: black;
+  font-size: 25px;
+  font-family: fantasy;
+}
+h1 {
+  font-family: Garamond, serif;
+  text-align: center;
+}
+h2 {
+  font-family: Verdana, sans-serif;
+}
+
+#shuttleBackground {
+  background-color: green;
+  display: inline-block;
+  height: 80%;
+  width: 40%;
+  position: relative;
+}
