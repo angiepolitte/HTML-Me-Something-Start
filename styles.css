@@ -2,9 +2,7 @@ HTML {
   background-color: #faf6f8;
   text-align: center;
 }
-/* header {
-;
-} */
+
 body {
   margin-top: 8px;
   margin-bottom: 8px;
@@ -31,11 +29,6 @@ img {
   color: green;
   text-align: center;
 }
-div {
-  color: antiquewhite;
-  background-color: rgb(205, 200, 200);
-  text-align: center;
-}
 
 p {
   color: black;
@@ -48,12 +41,4 @@ h1 {
 }
 h2 {
   font-family: Verdana, sans-serif;
-}
-
-#shuttleBackground {
-  background-color: green;
-  display: inline-block;
-  height: 80%;
-  width: 40%;
-  position: relative;
 }
